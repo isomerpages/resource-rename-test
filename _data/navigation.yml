@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Resource Room
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: News
+    url: /resource-room/news/
+  - title: Blog
+    url: /resource-room/blog/
+  - title: Others
+    url: /resource-room/others/
